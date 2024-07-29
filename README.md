@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Hospital management system**
 
-- 🌱 I’m currently learning **Deno**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **React and other js projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blitzbugg](https://github.com/blitzbugg)
 
-- 💬 Ask me about **Reactjs and deno**
+- 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **ananthapadmanabhanr2@gmail.com**
 
