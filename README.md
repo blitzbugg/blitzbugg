@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananthapadmanabhan M</h1>
-<h3 align="center">A passionate Golang dev from India</h3>
+<h3 align="center">A passionate React and Golang dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blitzbugg&label=Profile%20views&color=0e75b6&style=flat" alt="blitzbugg" /> </p>
 
