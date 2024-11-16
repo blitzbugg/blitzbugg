@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 <h2 align="left">Hi 👋! My name is Ananthapadmanabhan and I'm a JS Dev from India.</h2>
+=======
+<h1 align="center">Hi 👋, I'm Ananthapadmanabhan M</h1>
+<h3 align="center">A passionate React and Golang dev from India</h3>
+>>>>>>> 158bb8e11f7076825576bab59aaade193a87489e
 
 ###
 
@@ -90,4 +95,12 @@
   </a>
 </div>
 
+<<<<<<< HEAD
 ###
+=======
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blitzbugg&" alt="blitzbugg" /></p>
+
+
+
+<a href="https://app.daily.dev/blitzbugg"><img src="https://api.daily.dev/devcards/v2/1jUV4KECQ73jM2WCZQn9o.png?type=default&r=3d5" width="356" alt="Ananthapadmanabhan's Dev Card"/></a>
+>>>>>>> 158bb8e11f7076825576bab59aaade193a87489e
