@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananthapadmanabhan M</h1>
-<h3 align="center">A passionate Golang dev from India</h3>
+<h3 align="center">Creating Bugs since 2022</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blitzbugg&label=Profile%20views&color=0e75b6&style=flat" alt="blitzbugg" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Hospital Management System](https://github.com/blitzbugg/HMS)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on [Golang](https://github.com/blitzbugg/Golang)
+- 👯 I’m looking to collaborate on Reactjs
 
-- 👨‍💻 All of my projects are available at [https://github.com/blitzbugg](https://github.com/blitzbugg)
+- 👨‍💻 Logic Building
 
 - 📝 I regularly write articles on [https://medium.com/@blitzbugg](https://medium.com/@blitzbugg)
 
-- 💬 Ask me about **Go and DSA**
+- 💬 Ask me about **JavaScript and DSA**
 
 - 📫 How to reach me **ananthapadmanabhanr2@gmail.com**
 
