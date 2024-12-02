@@ -43,5 +43,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blitzbugg&" alt="blitzbugg" /></p>
 
 
+# 🎶 Listen to spotify playlist 
 
-<a href="https://app.daily.dev/blitzbugg"><img src="https://api.daily.dev/devcards/v2/1jUV4KECQ73jM2WCZQn9o.png?type=default&r=3d5" width="356" alt="Ananthapadmanabhan's Dev Card"/></a>
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31eamdk5xd7svzdeyeohwcczsnfi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eamdk5xd7svzdeyeohwcczsnfi&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
