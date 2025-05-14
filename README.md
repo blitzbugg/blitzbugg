@@ -1,56 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ananthapadmanabhan M</h1>
-<h3 align="center">Creating Bugs since 2022</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blitzbugg&label=Profile%20views&color=0e75b6&style=flat" alt="blitzbugg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blitzbugg" alt="blitzbugg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/blitzbugg" target="blank"><img src="https://img.shields.io/twitter/follow/blitzbugg?logo=twitter&style=for-the-badge" alt="blitzbugg" /></a> </p>
-
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/blitzbugg/HMS)
-
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on Reactjs
-
-- 👨‍💻 Logic Building
-
-- 📝 I regularly write articles on [https://medium.com/@blitzbugg](https://medium.com/@blitzbugg)
-
-- 💬 Ask me about **JavaScript and DSA**
-
-- 📫 How to reach me **ananthapadmanabhanr2@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/blitzbugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="blitzbugg" height="30" width="40" /></a>
-<a href="https://twitter.com/blitzbugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blitzbugg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ananthapadmanabhan-m-8982b4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthapadmanabhan-m-8982b4253" height="30" width="40" /></a>
-<a href="https://instagram.com/blitzbugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blitzbugg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/blitzbugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="blitzbugg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/blitzbugg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blitzbugg" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blitzbugg&show_icons=true&locale=en&layout=compact" alt="blitzbugg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blitzbugg&show_icons=true&locale=en" alt="blitzbugg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blitzbugg&" alt="blitzbugg" /></p>
-
-
-# 🎶 Listen to spotify playlist 
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/31eamdk5xd7svzdeyeohwcczsnfi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eamdk5xd7svzdeyeohwcczsnfi&count=5" alt="Spotify recently played"  />
-  </a>
+  
+# 🚀 ANANTHAPADMANABHAN M 🚀
+
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="450px" alt="Coding Animation">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Bug+Creator+Extraordinaire;Building+Logic+One+Explosion+at+a+Time;JavaScript+Wizard+%26+Algorithm+Adventurer;MERN+Stack+Explorer+%26+Code+Craftsman;Turning+Coffee+into+Code+Since+2022)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=blitzbugg&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/blitzbugg)
+[![GitHub followers](https://img.shields.io/github/followers/blitzbugg?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=6e33c1)](https://github.com/blitzbugg?tab=followers)
+[![GitHub Star](https://img.shields.io/github/stars/blitzbugg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&color=e3b341)](https://github.com/blitzbugg?tab=repositories)
+
 </div>
 
-###
+---
+
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" />
+
+## 💫 About Me
+
+```javascript
+const ananthapadmanabhan = {
+  nickname: "Blitzbugg",
+  role: "Software Engineer",
+  passion: ["Logic Building", "Problem Solving", "Backend Engineering"],
+  code: ["JavaScript", "TypeScript", "C++", "Go", "Java", "PHP"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
+  challenge: "Mastering the MERN Stack and creating 3 innovative projects in 2025",
+  funFact: "When I fix a bug, three more appear. It's not a bug, it's a feature!"
+};
+```
+
+- 🌱 Evolving with **MERN Stack & Advanced System Architecture**
+- 👯 Seeking fellow code warriors for **ReactJS battle quests**
+- 💬 Ask me about **JavaScript, Data Structures, Algorithms & Bug Creation**
+- 📫 Signal me at **ananthapadmanabhanm98@gmail.com**
+- ⚡ My superpower: **Turning impossible bugs into working features**
+
+---
+
+<div align="center">
+
+## 🛠️ Weapons of Choice
+
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css,tailwind,git,cpp,go,java,mysql,php,linux&perline=8)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Digital Universe Coordinates
+
+<a href="https://linkedin.com/in/ananthapadmanabhan-m-8982b4253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://dev.to/blitzbugg"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://twitter.com/blitzbugg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/blitzbugg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://medium.com/@blitzbugg"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/blitzbugg"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.leetcode.com/blitzbugg"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Battle Statistics
+
+<img src="https://github-profile-trophy.vercel.app/?username=blitzbugg&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophy" width="100%"/>
+
+<details>
+  <summary>⚡ Click to reveal more stats!</summary>
+  <br/>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=blitzbugg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blitzbugg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitzbugg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzbugg&bg_color=1a1b27&color=628fda&line=2fcec1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 A Byte of Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="600px" />
+
+<h3>
+
+*"Don't Debug into the Night... Debug into the Solution!"*
+
+</h3>
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="150px">
+
+*Always building. Always learning. Always shipping.*
+
+</div>
