@@ -1,10 +1,10 @@
 <div align="center">
   
-# ☕ ANANTHAPADMANABHAN M ☕
+# 🚀 ANANTHAPADMANABHAN M 🚀
 
 <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="450px" alt="Coding Animation">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%7C+Future+Spring+Pro;Learning+Clean+Code+and+DSA+Daily;Chasing+Java+Dreams+One+Bug+at+a+Time;Debugging+the+World%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Bug+Creator+Extraordinaire;Building+Logic+One+Explosion+at+a+Time;JavaScript+Wizard+%26+Algorithm+Adventurer;MERN+Stack+Explorer+%26+Code+Craftsman;Turning+Coffee+into+Code+Since+2022)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=blitzbugg&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/blitzbugg)
 [![GitHub followers](https://img.shields.io/github/followers/blitzbugg?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=6e33c1)](https://github.com/blitzbugg?tab=followers)
@@ -14,151 +14,35 @@
 
 ---
 
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" />
 
-## 🎮 DEVELOPER.EXE LOADING...
+## 💫 About Me
 
-```
-████████████████████████████████████████ 100%
-```
-
-**Status**: ✅ ONLINE | **Mode**: 🔥 LEARNING | **Level**: 📈 RISING
-
-</div>
-
----
-
-## 🚀 **THE CODING ODYSSEY**
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer at work" />
-
-### 💡 **The Story Behind the Screen**
-
-Welcome to my digital realm! I'm **Ananthapadmanabhan**, but the coding world knows me as **Blitzbugg** ⚡. 
-
-**Current Chapter**: *Junior backend explorer discovering the Spring ecosystem*
-
-🎯 **Mission Statement**: Building scalable systems that don't just work—they *thrive*  
-🔥 **Core Drive**: Transforming complex problems into elegant solutions  
-⚡ **Secret Weapon**: Converting caffeine directly into clean, efficient code  
-🏆 **Ultimate Goal**: Spring Boot Master + Future Tech Mentor  
-
----
-
-## 🎭 **THE MANY FACES OF A DEVELOPER**
-
-<div align="center">
-
-| 🌅 **Morning Me** | 🌆 **Evening Me** | 🌙 **Night Me** |
-|-------------------|-------------------|------------------|
-| Coffee ☕ + DSA Practice | Building Spring Projects 🚀 | Debugging & Dreaming 🐛 |
-| *"Today I'll solve 10 problems!"* | *"This API is getting elegant!"* | *"Just one more commit..."* |
-
-</div>
-
----
-
-## 🧬 **DNA OF A BACKEND ENTHUSIAST**
-
-```ascii
-    🧠 PROBLEM SOLVER
-   /               \
-  🏗️ SYSTEM BUILDER  📚 LIFELONG LEARNER
-  |                 |
-  🤝 FUTURE MENTOR   🎯 GOAL ORIENTED
-   \               /
-    ⚡ COFFEE POWERED
+```javascript
+const ananthapadmanabhan = {
+  nickname: "Blitzbugg",
+  role: "Software Engineer",
+  passion: ["Logic Building", "Problem Solving", "Backend Engineering"],
+  code: ["JavaScript", "TypeScript", "Go", "Java"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
+  challenge: "Mastering the MERN Stack and creating 3 innovative projects in 2025",
+  funFact: "When I fix a bug, three more appear. It's not a bug, it's a feature!"
+};
 ```
 
-**Core Values**:
-- 🔍 **Detail-Oriented**: Every semicolon matters, every optimization counts
-- 🌱 **Growth Mindset**: Today's error is tomorrow's expertise
-- 🤝 **Community First**: Learning together, growing together
-- 🎨 **Clean Code Advocate**: Beautiful code is maintainable code
+- 🌱 Evolving with **MERN Stack & Advanced System Architecture**
+- 👯 Seeking fellow code warriors for **ReactJS battle quests**
+- 💬 Ask me about **JavaScript, Data Structures, Algorithms & Bug Creation**
+- 📫 Signal me at **ananthapadmanabhanm98@gmail.com**
+- ⚡ My superpower: **Turning impossible bugs into working features**
 
 ---
 
 <div align="center">
 
-## 🛠️ **TECH ARSENAL & BATTLE GEAR**
+## 🛠️ Weapons of Choice
 
-<img src="https://skillicons.dev/icons?i=java,js,react,spring,mysql,docker,maven,git,html,css,vscode,idea&theme=dark" alt="Tech Stack" />
-
-### 💻 **Languages & Core Skills**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ **Database & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🛠️ **Development Environment**
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-### 📊 **Current Skill Levels**
-
-| Technology | Proficiency | Status | Next Milestone |
-|-----------|-------------|---------|----------------|
-| ☕ **Java** | ████████░░ 80% | ✅ Solid | Advanced Concurrency |
-| 🌱 **Spring Boot** | ██████░░░░ 60% | ✅ REST APIs | Security & Testing |
-| ⚛️ **React** | █████░░░░░ 50% | ✅ Components | State Management |
-| 🗄️ **SQL & JPA** | ██████░░░░ 60% | ✅ CRUD Operations | Complex Relationships |
-| 🧠 **DSA** | ███████░░░ 70% | ✅ Basic-Medium | Dynamic Programming |
-| 🐳 **Docker** | ████░░░░░░ 40% | ✅ Basics | Multi-stage Builds |
-| 🌿 **Git/GitHub** | ████████░░ 80% | ✅ Workflow | Advanced Merging |
-
-</div>
-
----
-
-## 🎯 **CURRENT QUESTS & ADVENTURES**
-
-<div align="center">
-
-### 🏃‍♂️ **Active Missions**
-
-```
-[QUEST 1] 🌱 Master Spring Boot Ecosystem      ████████░░ 80% Complete
-[QUEST 2] 📊 Conquer Advanced DSA Patterns    ███████░░░ 70% Complete  
-[QUEST 3] 🏗️ Build Portfolio Projects         █████░░░░░ 50% Complete
-[QUEST 4] 🤝 Contribute to Open Source        ██░░░░░░░░ 20% Complete
-```
-
-</div>
-
-**🎮 Side Quests**: API Testing with Postman | Advanced Git Workflows | Frontend-Backend Integration
-
----
-
-<div align="center">
-
-## 🌐 **JOIN MY CODING NETWORK**
-
-<a href="https://linkedin.com/in/ananthapadmanabhan-m-8982b4253">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.leetcode.com/blitzbugg">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-<a href="https://www.hackerrank.com/blitzbugg">
-  <img src="https://img.shields.io/badge/HackerRank-Challenge_Me-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
-
-### 📬 **DM Me For**
-✅ Full-Stack Java Projects | ✅ React + Spring Boot Integration | ✅ DSA Study Partners  
-✅ Code Reviews & Feedback | ✅ Docker Learning Journey | ✅ Junior Developer Collaborations
-
-**📧 Direct Line**: ananthapadmanabhanm98@gmail.com  
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css,tailwind,git,cpp,c,go,nextjs,mysql,linux&perline=8)
 
 </div>
 
@@ -166,23 +50,15 @@ Welcome to my digital realm! I'm **Ananthapadmanabhan**, but the coding world kn
 
 <div align="center">
 
-## 📊 **GITHUB BATTLEFIELD STATS**
+## 🌐 Digital Universe Coordinates
 
-<img src="https://github-readme-stats.vercel.app/api?username=blitzbugg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blitzbugg&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzbugg&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎲 **RANDOM DEVELOPER WISDOM**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600px" />
+<a href="https://linkedin.com/in/ananthapadmanabhan-m-8982b4253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://dev.to/blitzbugg"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://twitter.com/blitzbugg"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/blitzbugg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://medium.com/@blitzbugg"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/blitzbugg"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.leetcode.com/blitzbugg"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 
 </div>
 
@@ -190,28 +66,60 @@ Welcome to my digital realm! I'm **Ananthapadmanabhan**, but the coding world kn
 
 <div align="center">
 
-## 🎊 **DEVELOPER STATUS DASHBOARD**
+## 📊 Battle Statistics
 
-```
-🚀 MOTIVATION LEVEL    [████████████████████████████████████████████████] 100%
-☕ COFFEE CONSUMPTION  [████████████████████████████████████████░░░░░░░░] 90%
-🌱 SPRING BOOT SKILLS  [██████████████████████████░░░░░░░░░░░░░░░░░░░░░░] 60%
-⚛️ REACT DEVELOPMENT   [████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 50%
-🧠 DSA PROGRESS        [████████████████████████████████░░░░░░░░░░░░░░░░] 70%
-🐳 DOCKER JOURNEY      [████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 40%
-🔥 READY FOR CODING    [████████████████████████████████████████████████] 100%
-```
+<img src="https://github-profile-trophy.vercel.app/?username=blitzbugg&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophy" width="100%"/>
 
-### 🎯 **CURRENT STATUS**
-```
-> System.out.println("Learning something new every day!");
-> git add . && git commit -m "Small steps, big progress 🌱"
-> // TODO: Build my first full-stack Spring Boot application
-```
+<details>
+  <summary>⚡ Click to reveal more stats!</summary>
+  <br/>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=blitzbugg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blitzbugg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitzbugg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blitzbugg&bg_color=1a1b27&color=628fda&line=2fcec1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  
+</details>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" alt="Coding vibes" />
+</div>
 
-**🎪 Fun Fact**: I'm still figuring out why my code works, but hey—it works! 🎵  
-**⚡ Current Vibe**: *Caffeinated, curious, and ready to learn from every bug*
+---
+
+<div align="center">
+
+## 💡 A Byte of Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="600px" />
+
+<h3>
+
+*"Don't Debug into the Night... Debug into the Solution!"*
+
+</h3>
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="150px">
+
+*Always building. Always learning. Always shipping.*
 
 </div>
