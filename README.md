@@ -23,7 +23,7 @@ const ananthapadmanabhan = {
   nickname: "Blitzbugg",
   role: "Software Engineer",
   passion: ["Logic Building", "Problem Solving", "Backend Engineering"],
-  code: ["JavaScript", "TypeScript", "Go", "Java"],
+  code: ["JavaScript", "TypeScript", "Go", "C++"],
   tools: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
   challenge: "Mastering the MERN Stack and creating 3 innovative projects in 2025",
   funFact: "When I fix a bug, three more appear. It's not a bug, it's a feature!"
