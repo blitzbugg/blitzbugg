@@ -9,6 +9,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/blitzbugg)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/blitzbugg)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@blitzbugg)
+[![Discord](https://img.shields.io/badge/Discord-blitzbugg-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/blitzbugg)
 [![Profile Views](https://komarev.com/ghpvc/?username=blitzbugg&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/blitzbugg)
 
 </div>
