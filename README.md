@@ -2,7 +2,7 @@
 
 # Ananthapadmanabhan M
 
-### Backend Engineer · Java & JVM Ecosystem · System Design
+### Software Engineer · Full-Stack Web Development · System Design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananthapadmanabhan-m-8982b4253)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/blitzbugg)
@@ -18,51 +18,59 @@
 
 ## About
 
-I'm a backend-focused software engineer with a strong foundation in **Java** and the JVM ecosystem. I'm passionate about building scalable, maintainable systems — from well-designed REST APIs to distributed architecture patterns. Currently deepening my expertise in **Spring Boot**, **microservices**, and **system design**.
+I'm a software engineer with hands-on experience building full-stack web applications. I've worked across the stack — from designing REST APIs and backend services to building responsive UIs. Currently pursuing my MCA while deepening my skills in **system design**, **distributed systems**, and **backend architecture**.
 
-I value clean architecture, thoughtful API design, and writing code that other engineers enjoy reading and extending.
+I focus on writing clean, maintainable code and building products that actually work in production.
 
-- 🔭 &nbsp; Currently building: Scalable backend services with **Spring Boot & Java**
-- 🌱 &nbsp; Studying: **Distributed systems**, **JVM internals**, and **database optimization**
-- 💡 &nbsp; Interests: System design, algorithmic problem-solving, backend architecture
+- 🔭 &nbsp; Currently building: Full-stack web apps with **MERN Stack & Next.js**
+- 🌱 &nbsp; Studying: **System design**, **database optimization**, and **backend architecture**
+- 💡 &nbsp; Interests: Backend engineering, algorithmic problem-solving, clean API design
 - 📫 &nbsp; Reach me at: **ananthapadmanabhanm98@gmail.com**
 
 ---
 
 ## Technical Skills
 
-**Core Languages**
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Backend & Frameworks**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 **Tools & Infrastructure**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Frontend (Supporting)**
+**Design**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
@@ -107,7 +115,7 @@ I value clean architecture, thoughtful API design, and writing code that other e
 
 <div align="center">
 
-*Open to backend engineering roles and collaborative projects. Feel free to reach out.*
+*Open to software engineering roles and collaborative projects. Feel free to reach out.*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ananthapadmanabhanm98@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/blitzbugg)
